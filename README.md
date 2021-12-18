@@ -31,7 +31,7 @@
 
 ### 🎖 History
 
-[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/levina-lab/VeezMusic)
+[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/Abhinasking/music)
 
 ## Features 🔮
 
